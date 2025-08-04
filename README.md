@@ -1,8 +1,8 @@
 <!-- <img src="./project2.png" alt="GitHub Banner" width="100%" /> -->
 
-# Hello World!, I'm Manish, a Creative FullStack Software Engineer 👋🏼:
+# Hello World!, I'm Manish, A Creative FullStack Software Engineer 👋🏼:
 💻 With experience over 3 years;
-🛜 currently Looking for some opportunity<br>👨🏼‍🎓 Learning by My-Self<br>👨🏼‍💻 Learning web development since March 2023
+🛜 currently Looking for some opportunity<br>👨🏼‍🎓 Learning by My-Self<br>
 
 Coding Scenario
 <!--<div style='display:flex;width:100%;flex-wrap:wrap'><img style='height:130px' src='coder.gif' />
